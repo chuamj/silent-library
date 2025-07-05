@@ -37,6 +37,12 @@ main {
     align-items: center;
 }
 
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 /* footer stlye */
 footer {
     color: white;

@@ -117,8 +117,8 @@ nav li:first-child{
     background-color:#ffffffde;
     font-weight: bold;
     border-radius: 20px;
-    padding: 10px;
-    width: 40%;
+    padding: 10px 10px 10px 30px;
+    width: 100%;
 }
 
 .container {
